@@ -58,3 +58,4 @@ L'utilisation du `v-if` aurait pû être fait sur une `div` contenant tous les c
 ### ProductExport
 
 Puisque le code d'exportation a été fait à l'aide d'une source externe, écrire des commentaires pour aider la compréhension des étapes faites aurait été préférable.
+
